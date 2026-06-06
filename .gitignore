@@ -1,0 +1,6 @@
+News.csv
+cleaned_step1.csv
+preprocessed_step3.csv
+vectorized_data.pkl
+__pycache__/
+.DS_Store
